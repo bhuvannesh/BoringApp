@@ -1,12 +1,12 @@
 .card
 {
     position: relative;
-    background-color: cornsilk;
+    background-color: rgb(248, 255, 254);
     width: 600px;
     padding: 20px;
     height: 45vh;
     max-width: 85vh;
-    box-shadow:0px 18px 53px 0px rgba(0,0,0,0.3);
+    box-shadow:0px 18px 53px 0px rgba(236, 75, 102, 0.3);
     border-radius: 20px;
     background-size: cover;
     background-position: center;
